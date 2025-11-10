@@ -57,6 +57,6 @@ echo "===== Handling Gapps Output ====="
 mv out/target/product/larry out/target/product/gapps && \
 
 # --- Restore Vanilla ---
-mv device/oneplus/larry/vanilla.txt device/oneplus/larry/infinity_larry.mk && \
+mv device/oneplus/larry/vanilla.txt device/oneplus/larry/lineage_larry.mk && \
 
 echo "===== All builds completed successfully! ====="
