@@ -13,7 +13,7 @@ repo init -u https://github.com/AxionAOSP/android.git -b lineage-23.0 --git-lfs 
 /opt/crave/resync.sh && \
 
 # --- Clone Device Tree ---
-git clone https://github.com/anshedu/android_device_oneplus_larry -b lineage-22.2 device/oneplus/larry && \
+git clone https://github.com/anshedu/android_device_oneplus_larry -b Axion16 device/oneplus/larry && \
 
 # --- Clone Common Device Tree ---
 git clone https://github.com/anshedu/android_device_oneplus_sm6375-common -b lineage-23.0 device/oneplus/sm6375-common && \
