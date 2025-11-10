@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # =============================
-#   InfinityX Build Script
+#   AxionOS Build Script
 #   For: Vanilla + Gapps
 # =============================
 
